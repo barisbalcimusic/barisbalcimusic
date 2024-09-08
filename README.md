@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on the final project of my DCI Web Development study.
-- 🤔 I’m seeking a position as a junior web developer (frontend, backend, or fullstack).
+- 🔍 I’m seeking a position as a junior web developer (frontend, backend, or fullstack).
 - 📫 How to reach me:
   - **Email**: [barisbalcimusic@gmail.com](mailto:barisbalcimusic@gmail.com)
   - **LinkedIn**: [linkedin.com/in/barisbalciweb/](https://www.linkedin.com/in/barisbalciweb/)

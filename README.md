@@ -23,7 +23,7 @@
 <p>
   <img src="https://github.com/user-attachments/assets/0972f6a0-133f-4aa4-a05f-cd3e473fe2df" alt="Node.js" width="80" height="50">
   <img src="https://github.com/user-attachments/assets/6df1a662-ba7a-4338-aa4b-16b4636ae672" alt="Express.js" width="80" height="50">
-  <img src="https://github.com/user-attachments/assets/be767b14-23e8-487b-bf26-82ee7e62828b" alt="PHP" width="80" height="50">
+<!--   <img src="https://github.com/user-attachments/assets/be767b14-23e8-487b-bf26-82ee7e62828b" alt="PHP" width="80" height="50"> -->
 </p>
 
 ## Database Technologies

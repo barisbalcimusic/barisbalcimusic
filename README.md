@@ -1,12 +1,13 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on the final project of my DCI Web Development study.
+- 🎓 I have recently completed my Full-Stack Web Development (MERN) studies at DCI - Digital Career Institute.
 - 🔍 I’m seeking a position as a **junior web developer** (frontend, backend, or fullstack).
 - 📫 How to reach me:
   - **Email**: [barisbalcimusic@gmail.com](mailto:barisbalcimusic@gmail.com)
   - **LinkedIn**: [linkedin.com/in/barisbalciweb/](https://www.linkedin.com/in/barisbalciweb/)
 
 ---
+
 
 ## Frontend Technologies
 <p>
@@ -22,7 +23,8 @@
 ## Backend Technologies
 <p>
   <img src="https://github.com/user-attachments/assets/0972f6a0-133f-4aa4-a05f-cd3e473fe2df" alt="Node.js" width="80" height="50">
-  <img src="https://github.com/user-attachments/assets/6df1a662-ba7a-4338-aa4b-16b4636ae672" alt="Express.js" width="80" height="50">
+    <img src="https://github.com/user-attachments/assets/af7c95ca-a276-490d-8df3-15b85c53b128" alt="Express.js" width="100" height="30">
+<!--   <img src="https://github.com/user-attachments/assets/6df1a662-ba7a-4338-aa4b-16b4636ae672" alt="Express.js" width="80" height="50"> -->
 <!--   <img src="https://github.com/user-attachments/assets/be767b14-23e8-487b-bf26-82ee7e62828b" alt="PHP" width="80" height="50"> -->
 </p>
 
@@ -35,7 +37,7 @@
 
 ## Other Technologies
 <p>
-  <img src="https://github.com/user-attachments/assets/ded8f5af-340a-4dc7-b38e-12e04e0be8b0" alt="Git" width="80" height="50">
+  <img src="https://github.com/user-attachments/assets/ded8f5af-340a-4dc7-b38e-12e04e0be8b0" alt="Git" width="80" height="40">
   <img src="https://github.com/user-attachments/assets/b3e6d977-f55b-405c-86d9-c5a7173f50a8" alt="GitHub" width="80" height="50">
   <img src="https://github.com/user-attachments/assets/b660abe9-5c44-42a8-9fbe-93eea3716013" alt="RESTful APIs" width="80" height="50">
   <img src="https://github.com/user-attachments/assets/6006fd52-038d-445f-8024-764cf3152381" alt="NPM" width="80" height="50">

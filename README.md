@@ -11,7 +11,7 @@
 🔍 I’m seeking a position as a junior web developer (frontend, backend, or fullstack).
 
 📫 How to reach me:
-  - **Email**: [barisbalcimusic@gmail.com](mailto:barisbalcimusic@gmail.com)
+  - **Email**: [balcibaris@outlook.de](mailto:balcibaris@outlook.de)
   - **LinkedIn**: [linkedin.com/in/barisbalciweb/](https://www.linkedin.com/in/barisbalciweb/)
 
 ### Feel free to get in touch! :)

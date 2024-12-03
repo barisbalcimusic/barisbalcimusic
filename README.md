@@ -6,7 +6,7 @@
 - **Frontend**: React.js, JavaScript (ES6+), HTML5, CSS (SASS, Bootstrap, Tailwind)
 - **Backend**: Node.js, Express.js, PHP, MongoDB (Mongoose), MySQL (mysql2), RESTful APIs, EJS
 - **State Management**: Redux Toolkit
-- **Hosting & Server Management**: CPanel, VPS Server Configuration and Maintenance
+- **Hosting & Server Management**: CPanel, VPS Server Configuration
 - **Tools**: Git, GitHub, NPM, Linux Terminal
 - **NPM Packages**: axios, cors, bcrypt, dotenv, cookie-parser, jsonwebtoken, nodemailer, sanitize-html, validator, openai, react-google-recaptcha, react-router-dom, styled-components, and more.
 

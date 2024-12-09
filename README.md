@@ -10,7 +10,7 @@
 - **Tools**: Git, GitHub, NPM, Linux Terminal
 - **NPM Packages**: axios, cors, bcrypt, dotenv, cookie-parser, jsonwebtoken, nodemailer, sanitize-html, validator, openai, react-google-recaptcha, react-router-dom, styled-components, and more.
 
-🔍 **I’m seeking a position as a junior web developer** (frontend, backend, or fullstack).
+🔍 **I’m seeking a position as a web developer** (frontend, backend, or fullstack).
 
 📫 **How to reach me**:
 - **Email**: [balcibaris@outlook.de](mailto:balcibaris@outlook.de)

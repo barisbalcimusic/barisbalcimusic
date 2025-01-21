@@ -1,7 +1,3 @@
-# Hi there 👋
-
-🎓 I have recently completed my one-year, intensive Full-Stack Web Development (MERN) studies at DCI - Digital Career Institute.
-
 💻 **Skills**:
 - **Frontend**: React.js, JavaScript (ES6+), HTML5, CSS3 (SASS, Bootstrap, Tailwind), Redux Toolkit, Context API
 - **Backend**: Node.js, Express.js, MongoDB (+Mongoose), MySQL (+mysql2), RESTful APIs, EJS

@@ -1,8 +1,8 @@
 💻 **Skills**:
 - **Frontend**: React.js, JavaScript (ES6+), HTML5, CSS3 (SASS, Bootstrap, Tailwind), Redux Toolkit, Context API
 - **Backend**: Node.js, Express.js, MongoDB (+Mongoose), MySQL (+mysql2), RESTful APIs, EJS
-- **State Management**: Docker, Kubernetes, RabbitMQ
-- **System Administration**: CPanel, VPS Management (DNS and Firewall Configuration)
+- **State Management**: Docker, Kubernetes, Ingress-NGINX, RabbitMQ, GitHub Actions
+- **System Administration**: VMware ESXi, VMware vRealize Orchestrator, CPanel, VPS Management (DNS and Firewall Configuration)
 - **Tools**: Git, GitHub, NPM, Linux Terminal, Figma
 
 🔍 **I’m seeking a position as a web developer** (frontend, backend, or fullstack).
